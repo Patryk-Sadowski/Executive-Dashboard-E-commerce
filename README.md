@@ -9,8 +9,13 @@ Moreover aims to reflect real challenges faced by data professionals in digital 
 - **Power BI**: Utilized for data modeling, creating measures and designing the dashboard visualizations.
 - **Power Query**: Data processing and transformation.
 
-### **Exploratory Data Analysis (EDA)**
-- Identifying anomalies and outliers.
-- Understanding the distribution and relationships of variables.
-- Performing statistical summaries and visualizations.
-  
+### Analysis Process ####
+
+**Exploratory data analysis (EDA)** was conducted, which involved understanding and initially examining the structure and quality of the data. The process included:
+- Checking distributions, outliers, and missing values.
+- Creating descriptive statistics (mean, median, standard deviation).
+- Data visualization (charts, histograms, box plots).
+- Exploring relationships and hypotheses (e.g., correlations).
+
+## Dashboard Features
+

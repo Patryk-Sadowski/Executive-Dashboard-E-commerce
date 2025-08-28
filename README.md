@@ -18,4 +18,6 @@ Moreover aims to reflect real challenges faced by data professionals in digital 
 - Exploring relationships and hypotheses (e.g., correlations).
 
 ## Dashboard Features
-
+The dashboard consists of several key components:
+- Summarizes key metrics such as Revenue, Profits, Unique Customer and Order Volume.
+- 

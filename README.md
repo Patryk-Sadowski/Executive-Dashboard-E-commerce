@@ -31,5 +31,5 @@ The dashboard consists of several key components:
 - The German market generated the most sales $75 tys., then France $72 tys. and Italy came third $59 tys.
 - Most orders (217) were between $200 and $300. 82% of all orders were under $500.
 - The age of customers not found to significantly affect the quantity and value of the order. However, the most profitable group were customers between 26 and 35 years of age.
-- The highest sales margin (%) was achieved in the group between 56 and 65 years of age and it was 44,5%. It can be concluded that this age group purchased the most products where the price-to-cost ratio was the most favorable for the store.
+- The highest sales margin (%) was achieved in the group between 56 and 65 years of age and it was 44,5%. It can be concluded that this age group purchased the most products where the profit-to-cost ratio was the most favorable for the store.
 - 

@@ -29,7 +29,29 @@ The dashboard consists of several key components:
 - The share of individual sales channels is comparable: E-commerce $172 tys. (52,9%) and App Mobile $153 tys. (47,1%).
 - No product category accounted for a significant share of sales. However, the most profitable categories were shoes and T-shirts.
 - The German market generated the most sales $75 tys., then France $72 tys. and Italy came third $59 tys.
-- Most orders (217) were between $200 and $300. 82% of all orders were under $500.
-- The age of customers not found to significantly affect the quantity and value of the order. However, the most profitable group were customers between 26 and 35 years of age.
+- Most orders (217) were between $200 and $300. However, the largest share of revenue (24,8%) was accounted for by orders worth between $400-$500. 82% of all orders were under $500.
+- A correlation was observed between order value and the number of products ordered. The higher the order value, the higher the number of products ordered.
+- The age of customers not found to significantly affect the quantity and value of the orders. However, the most profitable group were customers between 26 and 35 years of age.
 - The highest sales margin (%) was achieved in the group between 56 and 65 years of age and it was 44,5%. It can be concluded that this age group purchased the most products where the profit-to-cost ratio was the most favorable for the store.
-- 
+
+## How to use
+To interact with the dashboard:
+1. Go to the my profile on [**NovyPro**](https://www.novypro.com/profile_about/patryk-sadowski?Data=1751821087529x373264283336804030&Popup=memberProject) to see the visualization
+2. You can freely explore the dashboard using the available filters as needed.
+
+## Dashboard
+
+<img width="1321" height="738" alt="1 strona" src="https://github.com/user-attachments/assets/31dd8092-43d6-4bd5-a182-b93530692f01" />
+
+---
+
+<img width="1322" height="739" alt="2 strona" src="https://github.com/user-attachments/assets/3d28f23e-3d3e-4756-8ff3-8d0db9e0afe9" />
+
+## Data Source
+The dataset for this dashboard is sourced from Kaggle, featuring the 'Multitable Ecommerce European Fashion ' dataset, which can be found at the following link:
+[kaggle](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset?resource=download&select=dataset_fashion_store_sales.csv).
+
+
+
+
+

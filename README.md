@@ -16,6 +16,10 @@ Moreover aims to reflect real challenges faced by data professionals in digital 
 - Creating descriptive statistics (mean, median, standard deviation).
 - Data visualization (charts, histograms, box plots).
 - Exploring relationships and hypotheses (e.g., correlations).
+  
+## Data Model
+
+<img width="824" height="712" alt="Model danych" src="https://github.com/user-attachments/assets/2afb9090-1a7c-41c9-a2b1-d8410969b7ac" />
 
 ## Dashboard Features
 The dashboard consists of several key components:

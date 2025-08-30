@@ -40,7 +40,7 @@ The dashboard consists of several key components:
 
 ## How to use
 To interact with the dashboard:
-1. Go to the my profile on [**NovyPro**](https://www.novypro.com/profile_about/patryk-sadowski?Data=1751821087529x373264283336804030&Popup=memberProject) to see the visualization
+1. Go to the my profile on [**NovyPro**](https://www.novypro.com/profile_about/patryk-sadowski?Popup=memberProject&Data=1756242877219x734801237229052900) to see the visualization
 2. You can freely explore the dashboard using the available filters as needed.
 
 ## Dashboard

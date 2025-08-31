@@ -49,7 +49,8 @@ To interact with the dashboard:
 
 ---
 
-<img width="1322" height="739" alt="2 strona" src="https://github.com/user-attachments/assets/3d28f23e-3d3e-4756-8ff3-8d0db9e0afe9" />
+<img width="1322" height="738" alt="2 strona" src="https://github.com/user-attachments/assets/fbb483a0-a96a-467a-b544-22e4c56f93a8" />
+
 
 ## Data Source
 The dataset for this dashboard is sourced from Kaggle, featuring the 'Multitable Ecommerce European Fashion ' dataset, which can be found at the following link:
